@@ -7,12 +7,20 @@ To solve this, our resume parser application can take in millions of resumes, pa
 
 The dataset of resumes has the following fields:
 
-Location
-Designation
-Name
-Years of Experience
-College
-Degree
-Graduation Year
-Companies worked at
-Email address
+1.Location
+
+2.Designation
+
+3.Name
+
+4.Years of Experience
+
+5.College
+
+6.Degree
+
+7.Graduation Year
+
+8.Companies worked at
+
+9.Email address
