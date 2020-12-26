@@ -25,4 +25,4 @@ The dataset of resumes has the following fields:
 
 9.Email address
 
-I have used # spacy on this project. To know more about spacy follow the link [Spacy](https://spacy.io/)
+I have used **spacy** on this project. To know more about spacy follow the link [Spacy](https://spacy.io/)
